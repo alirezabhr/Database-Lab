@@ -1,0 +1,1 @@
+INSERT INTO customer (name, phone) VALUES ('alireza', '09179865456'), ('mamad', '0921876545');
